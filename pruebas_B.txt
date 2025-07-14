@@ -3,3 +3,5 @@ primer comentario archivo B
 _archivo modificado en rama_test2
 
 _test2
+
+_test2_nuevo comentario con la rama creada
