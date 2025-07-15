@@ -19,3 +19,5 @@ noveno comentario desde rama main (G)
 decimo comentario desde rama rama_test_a (G)
 
 onceavo comentario desde rama rama_test_a (G)
+
+12avo comentario desde rama_test_b (R)
