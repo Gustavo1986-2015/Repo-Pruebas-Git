@@ -5,3 +5,5 @@ _archivo modificado en rama_test2
 _test2
 
 _test2_nuevo comentario con la rama creada
+
+primer comentario 15/07 en pruebas_B.txt en rama_test_b
