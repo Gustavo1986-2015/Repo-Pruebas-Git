@@ -6,8 +6,10 @@ _test2
 
 _test2_nuevo comentario con la rama creada
 
-primer comentario 15/07 en pruebas_B.txt en rama_test_b
+primer comentario 15/07 en pruebas_B.texto en rama_test_b (rama borrada, se vuelve a crear 17/07)
 
 otro comentario 16/7 desde rama main (G)
 
 otro comentario 16/7 desde rama_test_c (G)
+
+segundo comentario 16/07 desde rama_test_b
