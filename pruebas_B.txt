@@ -9,3 +9,5 @@ _test2_nuevo comentario con la rama creada
 primer comentario 15/07 en pruebas_B.txt en rama_test_b
 
 otro comentario 16/7 desde rama main (G)
+
+otro comentario 16/7 desde rama_test_c (G)
