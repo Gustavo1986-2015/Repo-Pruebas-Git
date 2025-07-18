@@ -14,4 +14,8 @@ otro comentario 16/7 desde rama_test_c (G)
 
 segundo comentario 16/07 desde rama_test_b
 
-otro comentario 16/7 desde rama_gustavo (G)  
+otro comentario 16/7 desde rama_gustavo (G) 
+
+otro comentario 18/7 desde rama_gustavo_2 (G) 
+
+otro comentario 18/7 desde rama_gustavo_2 2do commit (G) 
