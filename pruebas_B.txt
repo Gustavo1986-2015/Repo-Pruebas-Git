@@ -18,4 +18,6 @@ otro comentario 16/7 desde rama_gustavo (G)
 
 otro comentario 18/7 desde rama_gustavo_2 (G) 
 
-otro comentario 18/7 desde rama_gustavo_2 2do commit (G) 
+otro comentario 18/7 desde rama_gustavo_2 2do commit (G)
+
+nuevo commentario 18/07 desde rama_de_rama (R)
