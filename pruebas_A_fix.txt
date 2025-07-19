@@ -31,3 +31,17 @@ decimo comentario desde rama rama_test_a (G)
 16avo comentario 18/7 desde rama_gustavo_2 (G) 
 
 17avo comentario 19/7 desde main (G)
+
+def login():
+    usuario_valido = "usuario"
+    clave_valida = "clave"
+
+    usuario = input("Ingrese su usuario: ")
+    clave = input("Ingrese su clave: ")
+
+    if usuario == usuario_valido and clave == clave_valida:
+        print("Inicio de sesión exitoso")
+    else:
+        print("Usuario o clave incorrectos")
+
+login()
